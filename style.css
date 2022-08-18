@@ -2,7 +2,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: rgb(101, 117, 209);
+    background-color: #4682B4;
   }
   
   .box div {
@@ -11,7 +11,7 @@
   }
       
   .corpo{
-    background-color: rgb(56, 56, 143);
+    background-color: #191970;
     display: flex;
     align-items: center;
     justify-content: center;
