@@ -5,6 +5,7 @@
     background-color: #4682B4;
     position: relative;
     flex-direction: column;
+    border-radius: 5px;
   }
   
   .box div {
@@ -26,7 +27,7 @@
   }
 
   .image{
-    width: 100px;
-    height: 120px;
+    width: 200px;
+    height: 150px;
     border-radius: 5px;
   }
