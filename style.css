@@ -24,3 +24,9 @@
   .texto{
    color:#A9A9A9;	
   }
+
+  .imagem{
+    width: 50px;
+    height: 30px;
+    border-radius: 20px;
+  }
