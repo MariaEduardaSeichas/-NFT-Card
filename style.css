@@ -3,11 +3,12 @@
 }
 .text{
     color: #A9A9A9;
-    float: left;
-    top: 10%;
+    flex-direction: 40%;
+    position: relative;
+   
 }
 .texto{
     color:#A9A9A9;
-    float: left;
-    top: 10%;
+    flex-direction: 40%;
+    position: relative;
 }
