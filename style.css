@@ -3,13 +3,13 @@
 }
 .text{
     color: #A9A9A9;
-    flex-direction: 100%;
+    flex-direction: 200%;
     position: relative;
-    margin-top: 70px;
+    margin-top: 90px;
 }
 .texto{
     color:#A9A9A9;
-    flex-direction: 100%;
+    flex-direction: 200%;
     position: relative;
-    margin-top: 50px;
+    margin-top: 70px;
 }
