@@ -1,6 +1,7 @@
 .box {
     display: flex;
     justify-content: center;
+    align-items: center;
     background-color:  hsl(216, 50%, 16%); 
     flex-direction: column;
     border-radius: 20px;
@@ -26,7 +27,6 @@
   }
 
   .image{
-    align-items: center;
     width: 250px;
     height: 300px;
     border-radius: 5px;
