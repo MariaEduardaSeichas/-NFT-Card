@@ -31,3 +31,12 @@
     height: 300px;
     border-radius: 5px;
   }
+  .centralizar{
+    display: flex;
+  }
+  .p1{
+    align-items: start;
+  }
+  .p2{
+    align-items: end;
+  }
