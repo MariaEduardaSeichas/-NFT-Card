@@ -2,11 +2,11 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: hsl(217, 54%, 11%);
+    background-color:  hsl(216, 50%, 16%); 
     position: relative;
     flex-direction: column;
     border-radius: 20px;
-  }
+  } 
   
   .box div {
     width: 200px;
@@ -14,7 +14,7 @@
   }
       
   .corpo{
-    background-color: hsl(216, 50%, 16%);
+    background-color:hsl(217, 54%, 11%);
     display: flex;
     align-items: center;
     justify-content: center;
